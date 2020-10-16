@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Allura';
+    src: url(../fonts/Allura-Regular.ttf);
+}
+@font-face {
+    font-family: 'Georgia';
+    src: url(../fonts/Georgia.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Georgia-Reg-It';
+    src: url(../fonts/Georgia-Italic.woff);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Georgia-Bold-It';
+    src: url(../fonts/Georgia-BoldItalic.woff);
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Rochester';
+    src: url(../fonts/Rochester-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'SourceSansPro-Regular';
+    src: url(../fonts/sourcesanspro.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'SourceSansPro-Black';
+    src: url(../fonts/sourcesansproblack.ttf);
+    font-weight: 900;
+}
+@font-face {
+    font-family: 'SourceSansPro-Extra';
+    src: url(../fonts/sourcesansproextralight.ttf);
+    font-weight: 200;
+}
+@font-face {
+    font-family: 'SourceSansPro-Light';
+    src: url(../fonts/sourcesansprolight.ttf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'SourceSansPro-Light-It';
+    src: url(../fonts/sourcesansprolightitalic.ttf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'SourceSansPro-Semi-Bold';
+    src: url(../fonts/sourcesansprosemibold.ttf);
+    font-weight: 600;
+}
